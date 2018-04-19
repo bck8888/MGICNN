@@ -1,3 +1,7 @@
+"""
+Code script on ver. of korean can see in SteemIt
+https://steemit.com/study/@raretiger/study-computer-aided-diagnosis-cad-for-lung-cancer-3
+"""
 import csv
 import os
 import numpy as np
