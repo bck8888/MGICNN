@@ -44,7 +44,8 @@ list of nodule candidates computed using fewer candidate detection algorithms.
 ## Korean Scripts
 
 To korean, I write korean sript in steemit. 
-[Steemit][https://steemit.com/study/@raretiger/study-computer-aided-diagnosis-cad-for-lung-cancer-4]
+[Steemit][Log]
+[Log][https://steemit.com/study/@raretiger/study-computer-aided-diagnosis-cad-for-lung-cancer-4]
 
 last update date: 2018.01.07.
 
